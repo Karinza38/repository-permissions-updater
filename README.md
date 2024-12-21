@@ -1,4 +1,4 @@
-Repository Permissions Updater
+# Repository Permissions Updater
 ==============================
 
 About
